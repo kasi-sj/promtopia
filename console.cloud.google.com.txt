@@ -1,0 +1,10 @@
+console.cloud.google.com
+create new project
+prompotopia
+API & services 
+=> OAuth consent screen => create => {app name} => {email}=> {authorized domain}(https:\\localhost:3000)=> logo => email => save
+=> credentials =>createcredentials=>OAuth client ID =>{app type}(web) =>authorized javascript origin (https:\\localhost:3000)=>authorized rediract URLs (https:\\localhost:3000) https://localhost:3000/api/auth/callback/google => create
+[
+	clientid:""
+	clientscerate:""
+]
